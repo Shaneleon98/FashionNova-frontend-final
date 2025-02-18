@@ -1,0 +1,266 @@
+[
+    {
+      "_id": 1,
+      "name": "Gucci Leather Handbag",
+      "category": "accessories",
+      "description": "Stylish leather handbag with ample storage space.",
+      "price": 179.99,
+      "oldPrice": 299.99,
+      "image": "https://myluxurybargain.com/wp-content/uploads/2023/10/Top-5-Gucci-Handbags-That-Deserve-a-Spot-in-Your-Collection.jpg",
+      "color": "cream",
+      "rating": 4.5,
+      "author":"admin"
+    },
+    {
+      "_id": 2,
+      "name": "Evening Gown",
+      "category": "dress",
+      "description": "Elegant evening gown for special occasions.",
+      "price": 149.99,
+      "oldPrice": 199.99,
+      "image": "https://getwallpapers.com/wallpaper/full/c/3/c/260640.jpg",
+      "color": "white",
+      "rating": 4.0
+    },
+    {
+      "_id": 3,
+      "name": "bvlgari magnifica Necklace",
+      "category": "jewellery",
+      "description": "Exquisite diamonds with intricate design.",
+      "price": 399.99,
+      "image": "https://luxurylaunches.com/wp-content/uploads/2021/06/bvlgari-magnifica-high-jewellery-collection-2021-5-1170x1170.jpg",
+      "color": "diamond",
+      "rating": 4.7
+    },
+    {
+      "_id": 4,
+      "name": "Matte Lipstick",
+      "category": "cosmetics",
+      "description": "Long-lasting matte lipstick in various shades.",
+      "price": 19.99,
+      "image": "https://www.revolutionbeauty.com/dw/image/v2/BCZJ_PRD/on/demandware.static/-/Sites-revbe-master-catalog/default/dw626686db/images/hi-res/Matte-Lipstick-Op1.jpg?sw=800&sh=800&sm=fit",
+      "color": "all",
+      "rating": 4.2
+    },
+    {
+      "_id": 5,
+      "name": "Silk Scarf",
+      "category": "accessories",
+      "description": "Luxurious silk scarf with vibrant colors.",
+      "price": 69.99,
+      "oldPrice": 109.99,
+      "image": "https://image.made-in-china.com/2f0j00UkoiSmLqHYRp/Pretty-Soft-Silk-Women-Scarf-Multi-Wearing-Ways-Fashion-Neckerchief-Classical-Print-Pattern.jpg",
+      "color": "orange",
+      "rating": 4.3
+    },
+    {
+      "_id": 6,
+      "name": "Cocktail Dress",
+      "category": "dress",
+      "description": "Chic cocktail dress for parties and events.",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "beige",
+      "rating": 4.4
+    },
+    {
+      "_id": 7,
+      "name": "Diamond Earrings",
+      "category": "jewellery",
+      "description": "Sparkling diamond earrings that add elegance to any outfit.",
+      "price": 299.99,
+      "oldPrice": 349.99,
+      "image": "https://images.unsplash.com/photo-1587467442586-7bcc51828a10?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "silver",
+      "rating": 4.8
+    },
+    {
+      "_id": 8,
+      "name": "Foundation",
+      "category": "cosmetics",
+      "description": "High-coverage foundation for a flawless finish.",
+      "price": 39.99,
+      "image": "https://lh4.googleusercontent.com/MQ8NhdYdeAHIokjSl0dDoSLEq6B5ft8Mbk07RLKbDqqmZS5xBzjpBqQdXfRI-tBlVXXXXK2yi25GanyqwJSvcUPvVRkBmBkoR_zNIOJ91lufJ0vDyy_UJzMhvHVgI8SE8Cftp81z1IFhOfpFZuTKO_A",
+      "color": "beige",
+      "rating": 4.1
+    },
+    {
+      "_id": 9,
+      "name": "Sunglasses",
+      "category": "accessories",
+      "description": "Trendy sunglasses with UV protection.",
+      "price": 89.99,
+      "image": "https://i.pinimg.com/originals/8e/67/d5/8e67d5ff187367ff1bccd1395dafaa74.jpg",
+      "color": "brown",
+      "rating": 4.6
+    },
+    {
+      "_id": 10,
+      "name": "Casual Pants",
+      "category": "dress",
+      "description": "Comfortable maxi dress for casual outings.",
+      "price": 59.99,
+      "oldPrice": 79.99,
+      "image": "https://i.pinimg.com/originals/0b/48/df/0b48dfbac3b3b393f7fee523b2d34976.jpg",
+      "color": "green",
+      "rating": 4.2
+    },
+    {
+      "_id": 11,
+      "name": "Linen shirt",
+      "category": "dress",
+      "description": "Linen is a natural bast fibre derived from flax plants.",
+      "price": 99.99,
+      "oldPrice": 59.99,
+      "image": "https://image.hm.com/assets/hm/99/b8/99b8838a0d5db82c40e27184ae06ae2dc6a1e956.jpg?imwidth=1536",
+      "color": "black",
+      "rating": 4.8
+    },
+    {
+      "_id": 12,
+      "name": "Le Chic Street",
+      "category": "dress",
+      "description": "Style meets the timeless elegance.",
+      "price": 199.99,
+      "oldPrice": 159.99,
+      "image": "https://i0.wp.com/www.lechicstreet.com/wp-content/uploads/2023/06/89013930-2C3C-474E-8DE8-E112467FD057-1.jpeg?resize=610%2C759&ssl=1",
+      "color": "white",
+      "rating": 5.0
+    },
+    {
+      "_id": 13,
+      "name": "Rhode Strawberry Glaze Lip",
+      "category": "cosmetics",
+      "description": "Lip Gloss Delight, for Lips That Ignite.",
+      "price": 49.99,
+      "oldPrice": 19.99,
+      "image":"https://www.fashiongonerogue.com/wp-content/uploads/2023/08/Hailey-Bieber-Rhode-Strawberry-Glaze-2023-Campaign.jpg",
+      "color": "red",
+      "rating": 3.0
+    },
+    {
+      "_id": 14,
+      "name": "Denims",
+      "category": "dress",
+      "description": "Dashing in the  Denims.",
+      "price": 69.99,
+      "oldPrice": 89.99,
+      "image":"https://image.hm.com/assets/hm/8b/fa/8bfab3a31f62b76c9af3a0e0933a66ea6f06e2eb.jpg?imwidth=1536",
+      "color": "white",
+      "rating": 3.0
+    },
+    {
+      "_id": 13,
+      "name": "Ball Gowns",
+      "category": "dress",
+      "description": "For a more fashionable you.",
+      "price": 269.99,
+      "oldPrice": 179.94,
+      "image":"https://s-media-cache-ak0.pinimg.com/736x/fc/db/10/fcdb107885043e7cf6d101be1fa0bc2c.jpg",
+      "color": "red",
+      "rating": 4.0
+    },
+    {
+      "_id": 14,
+      "name": "Green Chain",
+      "category": "jewellery",
+      "description": "For a more fashionable you.",
+      "price": 69.99,
+      "oldPrice": 79.94,
+      "image":"https://i.etsystatic.com/5997489/r/il/8912bf/742748546/il_fullxfull.742748546_ghsj.jpg",
+      "color": "green",
+      "rating": 4.0
+    },
+    {
+      "_id": 15,
+      "name": "Boat-neck cotton top",
+      "category": "dress",
+      "description": "Loose-fit top in soft cotton jersey with a boat neckline.",
+      "price": 19.00,
+      "oldPrice": 32.00,
+      "image":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2c%2F95%2F2c958b10fc2e265ecdd214ad217ff3fa94526429.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "color": "red",
+      "rating": 3.0
+    },
+    {
+      "_id": 16,
+      "name": "Ear rings",
+      "category": "jewellery",
+      "description": "Step into the Spotlight with One-of-a-Kind Earrings",
+      "price": 319.00,
+      "oldPrice": 332.99,
+      "image":"https://www.fashiongonerogue.com/wp-content/uploads/2023/08/Hailey-Bieber-Rhode-Strawberry-Glaze-2023-Campaign01.jpg",
+      "color": "red",
+      "rating": 4.0
+    },
+    {
+      "_id": 17,
+      "name": "Strap-detail handbag",
+      "category": "accessories",
+      "description": "The ultimate collections",
+      "price": 119.00,
+      "oldPrice": 222.99,
+      "image":"https://image.hm.com/assets/hm/af/51/af5109b1e9ccaed2ff00ba6f26c8b219122c5558.jpg?imwidth=427",
+      "color": "black",
+      "rating": 3.0
+    },
+    {
+      "_id": 18,
+      "name": "Bow-front rib-knit cardigan",
+      "category": "dress",
+      "description": "Long-sleeved cardigan in a soft rib knit with a round neckine and decorative bows and concealed press-studs at the front.",
+      "price": 33.00,
+      "oldPrice": 88.99,
+      "image":"https://image.hm.com/assets/hm/7e/58/7e582b1ab76af61d94a8add5f898c62607050ffa.jpg?imwidth=820",
+      "color": "black",
+      "rating": 3.0
+    },
+    {
+      "_id": 19,
+      "name": "Appliquéd cotton cap",
+      "category": "accessories",
+      "description": "Cap in cotton twill with an embroidered appliqué on the front and a frayed edge around the peak. ",
+      "price": 63.00,
+      "oldPrice": 100.99,
+      "image":"https://image.hm.com/assets/hm/58/17/5817266590297d21d0ef046b6eb486da745e6834.jpg?imwidth=1536",
+      "color": "beige",
+      "rating": 3.0
+    },
+    {
+      "_id": 20,
+      "name": "2-pack rings",
+      "category": "jewellery",
+      "description": "Metal rings in different designs with soft shapes and a shiny finish.",
+      "price": 99.00,
+      "oldPrice": 100.99,
+      "image":"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F26%2F46%2F2646b12c039b16f834feedfca5dc17b7ecee36ce.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "color": "gold",
+      "rating": 4.0
+    },
+    {
+      "_id": 20,
+      "name": "Fine-knit jumper",
+      "category": "dress",
+      "description": "Jumper in a soft, fine-knit viscose blend with a round, rib-trimmed neckline and long sleeves. Ribbing at the cuffs and hem.",
+      "price": 49.00,
+      "oldPrice": 59.99,
+      "image":"https://image.hm.com/assets/hm/b1/07/b107c4ee72685540c713a11668406359ca91d01a.jpg?imwidth=1536",
+      "color": "blue",
+      "rating": 4.0
+    },
+    {
+      "_id": 21,
+      "name": "Angular stud earrings",
+      "category": "jewellery",
+      "description": "Angular metal stud earrings with an irregular surface.",
+      "price": 119.00,
+      "oldPrice": 159.99,
+      "image":"https://image.hm.com/assets/hm/34/0a/340a50642a224dee8264116cc8a8146b0716975b.jpg?imwidth=1536",
+      "color": "silver",
+      "rating": 3.0
+    }
+
+
+
+
+  ]
