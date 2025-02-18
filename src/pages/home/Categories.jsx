@@ -35,7 +35,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import category1 from "../../assets/category-1.jpg";
-import category2 from "../../assets/category-002.jpg";
+import category2 from "../../assets/Category-002.jpg";
 import category3 from "../../assets/category-03.jpg";
 import category4 from "../../assets/category-04.jpg";
 
