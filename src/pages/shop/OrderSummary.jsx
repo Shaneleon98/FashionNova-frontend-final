@@ -31,7 +31,7 @@ const OrderSummary = () => {
         "Content-Type": "application/json"
       }
 
-      const response = await fetch(`http://localhost:5000/api/orders/create-checkout-session`, 
+      const response = await fetch(`${getBaseUrl()}/api/orders/create-checkout-session`, 
       {
         method: "POST",
         headers: headers,
